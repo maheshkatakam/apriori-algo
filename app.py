@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 import base64
-import matplotlib.pyplot as pandas
+import matplotlib.pyplot as plt
 from mlxtend.frequent_patterns import apriori
 from mlxtend.frequent_patterns import association_rules
 from mlxtend.preprocessing import TransactionEncoder
